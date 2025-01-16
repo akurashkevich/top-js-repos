@@ -1,0 +1,10 @@
+.repository__header {
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+    transition: opacity 0.3s ease-in-out;
+}
+
+.repository__header:hover {
+    opacity: 0.65;
+}

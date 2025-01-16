@@ -1,4 +1,4 @@
-import React, {useEffect, useRef} from 'react';
+import {useEffect, useRef} from 'react';
 import {Container, Loader, Stack, Title, Text} from '@mantine/core';
 import ListItem from '../ListItem/ListItem.tsx';
 import { useRepositories } from '../../hooks/useRepositories.tsx';

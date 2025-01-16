@@ -1,6 +1,6 @@
 import React, {useState} from 'react';
 import {Card, Text, Group, Button, TextInput, Stack, Avatar, Box} from '@mantine/core';
-import { Repository } from '../../types/Repository';
+import { Repository } from '../../types/Repository.ts';
 import styles from './ListItem.module.css';
 
 interface ListItemProps {
